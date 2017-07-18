@@ -1,0 +1,7 @@
+F:\Programming\C#\Projects\ExcelWriter\ExcelWriter\ExcelWriter\bin\Debug\ExcelWriter.exe.config
+F:\Programming\C#\Projects\ExcelWriter\ExcelWriter\ExcelWriter\bin\Debug\ExcelWriter.exe
+F:\Programming\C#\Projects\ExcelWriter\ExcelWriter\ExcelWriter\bin\Debug\ExcelWriter.pdb
+F:\Programming\C#\Projects\ExcelWriter\ExcelWriter\ExcelWriter\obj\Debug\ExcelWriter.csprojResolveAssemblyReference.cache
+F:\Programming\C#\Projects\ExcelWriter\ExcelWriter\ExcelWriter\obj\Debug\ExcelWriter.csproj.ResolveComReference.cache
+F:\Programming\C#\Projects\ExcelWriter\ExcelWriter\ExcelWriter\obj\Debug\ExcelWriter.exe
+F:\Programming\C#\Projects\ExcelWriter\ExcelWriter\ExcelWriter\obj\Debug\ExcelWriter.pdb
